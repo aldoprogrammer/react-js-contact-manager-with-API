@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-I make this project about a month ago.
+I make this project about a month ago. But, I forgot to upload it.
 ### `npm start`
 
 Runs the app in the development mode.\
